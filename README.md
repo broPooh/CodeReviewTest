@@ -14,5 +14,4 @@ tm5-1 #progress test
 tm5-1 #in-progress test
 tm5-1 #done test
 tm5-1 #finish test
-
-2
+tm5-2 #in-progress test
